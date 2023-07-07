@@ -40,7 +40,7 @@ Install dependencies
 ```
 Run this in git bash
 ```bash
-  $ peerjs --port 3001
+  $ peerjs --port 3030
 ```
 Start the server
 
